@@ -1,0 +1,14 @@
+# .gitignore
+*.pyc
+*.log
+__pycache__/
+node_modules/
+*.sqlite3
+*.DS_Store
+*.swp
+*.bak
+*.tmp
+*.sass-cache/
+*.idea/
+*.vscode/
+sites/node_modules/
