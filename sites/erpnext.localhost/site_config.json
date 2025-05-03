@@ -2,5 +2,6 @@
  "db_name": "eval",
  "db_password": "hetP2J1vy9yHeBre",
  "db_type": "mariadb",
- "db_user": "eval"
+ "db_user": "eval",
+ "developper_mode": 1
 }

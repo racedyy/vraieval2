@@ -14,5 +14,6 @@
  "shallow_clone": true,
  "socketio_port": 9003,
  "use_redis_auth": false,
- "webserver_port": 8003
+ "webserver_port": 8003,
+ "developper_mode": 1
 }
